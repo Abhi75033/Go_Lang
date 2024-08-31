@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/abhishekkumar/Desktop/Go_Lang/Variables",
+      "program": "/Users/abhishekkumar/Desktop/Go_Lang/Variables/build/Debug/outDebug"
+    }
+  ]
+}
