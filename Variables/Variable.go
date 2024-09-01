@@ -55,7 +55,8 @@ func Variables() {
 	fmt.Println("Collage:",Collage)
 
 
-	// Always remember if we want use any variable outside of this file then declare any variable with Uppercase
+	// Always remember if we want use any
+	//  variable outside of this file then declare any variable with Uppercase
 	// Example
 
 	City := "Mugalsari"
